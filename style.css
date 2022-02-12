@@ -1,0 +1,7 @@
+body{
+    padding: 10px;
+    position: center;
+    overflow: hidden;
+    background-image: url("imagines/wood2.jpg");
+    background-repeat: repeat;
+}
